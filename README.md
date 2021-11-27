@@ -1,7 +1,7 @@
 # 华中科技大学机械科学与工程学院资源
 >HUST MSE Resources
 
-![](/pics/HALO_1.jpg)
+![117](/pics/HALO_1.jpg)
 
 ## 说明
 >该资源主要包含课件、试卷等内容。
